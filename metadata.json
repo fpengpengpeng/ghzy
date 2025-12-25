@@ -1,0 +1,5 @@
+{
+  "name": "植物光合作用交互实验室",
+  "description": "一个全交互式的React应用，用于探索植物光合作用的深层机制，包括原初反应、光反应、暗反应以及C3/C4/CAM途径的对比。内置Gemini AI导师辅助学习。",
+  "requestFramePermissions": []
+}
